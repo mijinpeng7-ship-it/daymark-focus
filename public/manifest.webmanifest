@@ -1,0 +1,10 @@
+{
+  "name": "昼刻 · 翻页时钟",
+  "short_name": "昼刻",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": []
+}
