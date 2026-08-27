@@ -1,0 +1,10 @@
+node_modules/
+.npm-cache/
+dist/
+.DS_Store
+.env
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+*.xcarchive
